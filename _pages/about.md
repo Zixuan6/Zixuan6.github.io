@@ -19,16 +19,12 @@ redirect_from:
 
 I am a PhD student in Speech Science （School of Psychology） at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage</a> and <a href="https://profiles.auckland.ac.nz/sc-purdy" target="_blank"> Prof. Suzanne Purdy</a>.
 
-My research focuses on investigating the relationship between speech and music from the perspectives of acoustics and social science. I am currently involved in the Many Voices 2 and Many Voices 3 projects.
+My research focuses on investigating the relationship between speech and music from the perspectives of acoustics and social psychology. I am currently involved in the Many Voices 2 and Many Voices 3 projects.
 
 Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu University of China, and an MSc in Phonetics from the University of Edinburgh, where I was fortunate to be supervised by <a href="https://edwebprofiles.ed.ac.uk/profile/alice-turk" target="_blank"> Prof. Alice Turk</a>. I later worked as a research assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, contributing to projects in phonetics, psycholinguistics, and neurolinguistics.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
+Selected first author & co-first author papers. See full publication list in Google Scholar
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,6 +45,7 @@ Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu U
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
+- *2024.12 - now*, PhD in Speech Science, **University of Auckland** 
 - *2021.09 - 2022.11*, MSc in Phonetics, **University of Edinburgh** 
 - *2017.09 - 2021.07*, BA in Chinese Language and Literature, **Minzu University of China** 
 
@@ -56,5 +53,6 @@ Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu U
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experiences
+*** -Teaching ***
+   - GTA (supervison, marker), Capstone, *2025.7 - 2025.11*
