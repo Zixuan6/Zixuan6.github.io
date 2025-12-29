@@ -41,8 +41,10 @@ Selected first author & co-first author papers. See full publication list in <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* SEMPRE Award for ICMPC 18 Conference (€200)
+- *2024.12* Fully Funded PhD Scholarship (NZD 140,000 over three years)
+- *2020.09* Second-Class Scholarship for Academic Excellence (1200 RMB)
+- *2018.09* Second-Class Scholarship for Academic Excellence (1200 RMB) 
 
 # 📖 Educations
 - *2024.12 - now*, PhD in Speech Science, **University of Auckland** 
