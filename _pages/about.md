@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Speech Science （School of Psychology） at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage </a>and Prof. Suzanne Purdy.
+I am a PhD student in Speech Science （School of Psychology） at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage</a> and <a href="https://profiles.auckland.ac.nz/sc-purdy" target="_blank"> Prof. Suzanne Purdy</a>.
 
 My research focuses on investigating the relationship between speech and music from the perspectives of acoustics and social science. I am currently involved in the Many Voices 2 and Many Voices 3 projects.
 
-Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu University of China, and an MSc in Phonetics from the University of Edinburgh, where I was fortunate to be supervised by Prof. Alice Turk. I later worked as a research assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, contributing to projects in phonetics, psycholinguistics, and neurolinguistics.
+Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu University of China, and an MSc in Phonetics from the University of Edinburgh, where I was fortunate to be supervised by <a href="https://edwebprofiles.ed.ac.uk/profile/alice-turk" target="_blank"> Prof. Alice Turk</a>. I later worked as a research assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, contributing to projects in phonetics, psycholinguistics, and neurolinguistics.
 
 
 # 🔥 News
@@ -49,8 +49,8 @@ Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu U
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2022.11*, MSc in Phonetics, **University of Edinburgh** 
+- *2017.09 - 2021.07*, BA in Chinese Language and Literature, **Minzu University of China** 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
