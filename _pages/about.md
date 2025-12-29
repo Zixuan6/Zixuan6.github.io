@@ -24,7 +24,7 @@ My research focuses on investigating the relationship between speech and music f
 Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu University of China, and an MSc in Phonetics from the University of Edinburgh, where I was fortunate to be supervised by <a href="https://edwebprofiles.ed.ac.uk/profile/alice-turk" target="_blank"> Prof. Alice Turk</a>. I later worked as a research assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, contributing to projects in phonetics, psycholinguistics, and neurolinguistics.
 
 # 📝 Publications 
-Selected first author & co-first author papers. See full publication list in Google Scholar
+Selected first author & co-first author papers. See full publication list in <a href="https://scholar.google.com/citations?user=HGu1roMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,5 +54,14 @@ Selected first author & co-first author papers. See full publication list in Goo
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Experiences
-*** -Teaching ***
-   - GTA (supervison, marker), Capstone, *2025.7 - 2025.11*
+**--Teaching**
+   - *2025.07 - 2025.11*, Graduate Teaching Assistant (supervison, marker), Capstone
+
+**--Mentorship**
+   - *2025.03 - 2025.11*, Singing showed higher pitch, slower tempo and greater stability compared to conversation, and is associated with greater social bonding: A Registered Report replicating and extending Ozaki et al. (2024) with (NZ) English Speakers
+     Zhuozhuang (Nelson) Shi, Honours dissertation
+
+
+**--Research Assistant**
+   - *2023.02 - 2023.11*, Acouctic Phonetics Lab (collecting EEG data & speech recording processing), advised by Prof. Yingyi Luo and Dr. Shuwen Chen
+   - *2023.11 - 2024.11*, Brain, Language, and Computation Lab (collecting fNIRS data), mentored by Dr. Jing Wang, PI: Prof. Ping Li
