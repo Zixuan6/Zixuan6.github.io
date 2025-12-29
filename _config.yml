@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zixuan Jia"
+description              : "PhD student at University of Auckland"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Zixuan Jia"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "University of Auckland"
+  location         : "Auckland, New Zealand"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HGu1roMAAAAJ&view_op=list_works&gmla=AElLoL14AGNknYZBqBr1muNlBM41lTcq5XVRahwkruvgQNLYAXu90x0-ey5MdNSpBxkhyy7HxHoQ8dMgetmFC4vnUvAbh-C4-u-mTfwBbmQ8DxnnVmlEdKp8g1B-fuxY5TiCe2vs3lQ"
+  email            : "zjia109@aucklanduni.ac.nz"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
