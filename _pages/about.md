@@ -58,7 +58,7 @@ Selected first author & co-first author papers. See full publication list in <a 
    - *2025.07 - 2025.11*, Graduate Teaching Assistant (supervison, marker), Capstone
 
 **--Mentorship**
-   - *2025.03 - 2025.11*, Singing showed higher pitch, slower tempo and greater stability compared to conversation, and is associated with greater social bonding: A Registered Report replicating and extending Ozaki et al. (2024) with (NZ) English Speakers
+   - *2025.03 - 2025.11*, Singing showed higher pitch, slower tempo and greater stability compared to conversation, and is associated with greater social bonding: A Registered Report replicating and extending Ozaki et al. (2024) with (NZ) English Speakers  
      Zhuozhuang (Nelson) Shi, Honours dissertation
 
 
