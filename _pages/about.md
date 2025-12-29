@@ -51,10 +51,6 @@ Selected first author & co-first author papers. See full publication list in <a 
 - *2021.09 - 2022.11*, MSc in Phonetics, **University of Edinburgh** 
 - *2017.09 - 2021.07*, BA in Chinese Language and Literature, **Minzu University of China** 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Experiences
 **--Teaching**
    - *2025.07 - 2025.11*, Graduate Teaching Assistant (supervison, marker), Capstone
@@ -65,5 +61,5 @@ Selected first author & co-first author papers. See full publication list in <a 
 
 
 **--Research Assistant**
-   - *2023.02 - 2023.11*, Acouctic Phonetics Lab (collecting EEG data & speech recording processing), advised by Prof. Yingyi Luo and Dr. Shuwen Chen
-   - *2023.11 - 2024.11*, Brain, Language, and Computation Lab (collecting fNIRS data), mentored by Dr. Jing Wang, PI: Prof. Ping Li
+   - *2023.02 - 2023.11*, Acoustic Phonetics Lab (collecting EEG data & speech recording processing), advised by Prof. Yingyi Luo and Dr. Shuwen Chen
+   - *2023.11 - 2024.11*, Brain, Language, and Computation Lab (collecting fNIRS data), mentored by Dr. Mingjun Zhai and Dr. Jing Wang, PI: Prof. Ping Li
