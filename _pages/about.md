@@ -38,7 +38,7 @@ Selected first author & co-first author papers. See full publication list in <a 
 - We also explored the potential musicianship effect on acoustic differences between speech and song. 
 </div>
 
-<sup>*</sup> Denotes corresponding author
+*Denotes corresponding author
 
 # 🎖 Honors and Awards
 - *2025.07* SEMPRE Award for ICMPC 18 Conference (€200)
