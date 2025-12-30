@@ -34,7 +34,7 @@ Selected first author & co-first author papers. See full publication list in <a 
 **Zixuan Jia**<sup>*</sup>, Suzanne Purdy, Patrick E. Savage<sup>*</sup>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We successfuly replicated Ozaki et al.'s findings that **"singing shows higher pitch, slower tempo, and greater stability than conversation"** among Mandarin speakers in Auckland. 
+- We successfuly replicated Ozaki et al.'s findings that **"singing shows higher pitch, slower tempo, and greater stability than conversation"** among Mandarin speakers in Auckland, and generalized it to more participants without musical and academic backgrounds. 
 - We also explored the potential musicianship effect on acoustic differences between speech and song. 
 </div>
 </div>
