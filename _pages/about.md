@@ -37,8 +37,7 @@ Selected first author & co-first author papers. See full publication list in <a 
 - We successfuly replicated Ozaki et al.'s findings that **"singing shows higher pitch, slower tempo, and greater stability than conversation"** among Mandarin speakers in Auckland. 
 - We also explored the potential musicianship effect on acoustic differences between speech and song. 
 </div>
-
-- *Denotes corresponding author
+</div>
 
 # 🎖 Honors and Awards
 - *2025.07* SEMPRE Award for ICMPC 18 Conference (€200)
