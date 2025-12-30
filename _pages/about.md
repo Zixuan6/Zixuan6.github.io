@@ -31,13 +31,15 @@ Selected first author & co-first author papers. See full publication list in <a 
 
 [Higher Pitch, Slower Tempo, and Greater Stability in Singing than in Conversation among Mandarin speakers in Auckland: A Registered Report Replicating Ozaki et al.(2024)](https://osf.io/preprints/psyarxiv/gwavn_v1)
 
-**Zixuan Jia**<sup>*</sup>, Suzanne Purdy, Patrick E. Savage
+**Zixuan Jia**<sup>*</sup>, Suzanne Purdy, Patrick E. Savage<sup>*</sup>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We successfuly replicated Ozaki et al.'s findings that **"singing shows higher pitch, slower tempo, and greater stability than conversation"** among Mandarin speakers in Auckland. 
 - We also explored the potential musicianship effect on acoustic differences between speech and song. 
 </div>
 </div>
+
+* denotes corresponding author
 
 # 🎖 Honors and Awards
 - *2025.07* SEMPRE Award for ICMPC 18 Conference (€200)
