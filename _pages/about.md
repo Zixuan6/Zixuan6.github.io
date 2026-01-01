@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Speech Science （School of Psychology） at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage</a> and <a href="https://profiles.auckland.ac.nz/sc-purdy" target="_blank"> Prof. Suzanne Purdy</a>.
+I am a PhD student in Speech Science (School of Psychology) at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage</a> and <a href="https://profiles.auckland.ac.nz/sc-purdy" target="_blank"> Prof. Suzanne Purdy</a>.
 
 My research focuses on investigating the relationship between speech and music from the perspectives of acoustics and social psychology. I am currently involved in the Many Voices 2 and Many Voices 3 projects.
 
