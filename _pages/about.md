@@ -39,7 +39,7 @@ Selected first author & co-first author papers. See full publication list in <a 
 </div>
 </div>
 
-* denotes corresponding author
+<sup>*</sup> denotes corresponding author
 
 # 🎖 Honors and Awards
 - *2025.07* SEMPRE Award for ICMPC 18 Conference (€200)
