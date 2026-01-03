@@ -1,8 +1,9 @@
 ---
 title: "Experiences"
 permalink: /experiences/
-layout: single
-author_profile: true
+layout: page
+nav: true
+nav_order: 2
 ---
 
 **--Teaching**
