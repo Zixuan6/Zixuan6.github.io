@@ -2,6 +2,7 @@
 layout: page
 title: Meta-analysis
 permalink: /resources/meta-analysis/
+nav: false
 ---
 
 ## Meta-analysis
