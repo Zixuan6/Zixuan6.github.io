@@ -3,7 +3,7 @@ title: "Experiences"
 permalink: /experiences/
 layout: page
 nav: true
-nav_order: 2
+nav_order: 6
 ---
 
 **--Teaching**
