@@ -17,6 +17,6 @@ main:
 
   - title: "Resources"
     children:
-      - title: "Meta-analysis"
+      - title: "/#-meta-analysis"
         url: "/resources/meta-analysis/"
 
