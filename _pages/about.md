@@ -63,4 +63,4 @@ Selected first author & co-first author papers. See full publication list in <a 
 
 **--Research Assistant**
    - *2023.02 - 2023.11*, Acoustic Phonetics Lab (collecting EEG data & speech recording processing), advised by Prof. Yingyi Luo and Dr. Shuwen Chen
-   - *2023.11 - 2024.11*, Brain, Language, and Computation Lab (collecting fNIRS data), mentored by Dr. Mingjun Zhai and Dr. Jing Wang, PI: Prof. Ping Li
+   - *2023.11 - 2024.11*, Brain, Language, and Computation Lab (collecting fNIRS data), mentored by Dr. Jing Wang, PI: Prof. Ping Li
