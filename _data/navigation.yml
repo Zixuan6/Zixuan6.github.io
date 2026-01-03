@@ -13,10 +13,5 @@ main:
     url: "/#-educations"
 
   - title: "Experiences"
-    url: "/#-experiences"
-
-  - title: "Resources"
-    children:
-      - title: "/#-meta-analysis"
-        url: "/resources/meta-analysis/"
+    url: "/experiences"
 
