@@ -1,6 +1,7 @@
 ---
 title: "Experiences"
 permalink: /experiences/
+layout: single
 author_profile: true
 ---
 
