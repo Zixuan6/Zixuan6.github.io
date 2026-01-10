@@ -17,12 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Speech Science (School of Psychology) at the University of Auckland, supervised by <a href="https://scholar.google.com/citations?user=UCIt79UAAAAJ&hl=en" target="_blank"> Dr. Patrick Savage</a> and <a href="https://profiles.auckland.ac.nz/sc-purdy" target="_blank"> Prof. Suzanne Purdy</a>.
-
-My research focuses on investigating the relationship between speech and music from the perspectives of acoustics and social psychology. I am currently involved in the Many Voices 2 and Many Voices 3 projects.
-
-Prior to my PhD, I received a BA in Chinese Language and Literature from Minzu University of China, and an MSc in Phonetics from the University of Edinburgh, where I was fortunate to be supervised by <a href="https://edwebprofiles.ed.ac.uk/profile/alice-turk" target="_blank"> Prof. Alice Turk</a>. I later worked as a research assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, contributing to projects in phonetics, psycholinguistics, and neurolinguistics.
-
 I am a second-year PhD student in Speech Science, affiliated with the School of Psychology at the University of Auckland. I am currently based in [Comp Music lab](https://sites.google.com/view/comp-music-lab/home), supervised by [Dr. Patrick Savage](https://profiles.auckland.ac.nz/patrick-savage) and [Prof. Suzanne Purdy](https://profiles.auckland.ac.nz/sc-purdy). 
 
 Prior to my PhD, I received a BA in Chinese Language and Literature from [Minzu University of China](https://www.muc.edu.cn/), and an MSc in Phonetics from the [University of Edinburgh](https://www.ed.ac.uk/), where I was fortunate to be supervised by [Prof. Alice Turk](https://www.ed.ac.uk/profile/alice-turk). After that, I worked as a Research Assistant at the Chinese Academy of Social Sciences and Hong Kong Polytechnic University, gaining research experience in phonetics, social psychology, and neuroscience. These training experiences have led me to develop a strong interest in interdisciplinary research. I particularly enjoy integrating **acoustic, computational, social psychological, and neuroscientific approaches** to address questions at the intersection of **speech and music**, especially those concerning their form and function.
