@@ -27,7 +27,7 @@ My PhD research incorporates three main projects:
 
 - (b) [**Many Voices 3**](https://osf.io/c2dba): This project replicates and extends [***Ozaki et al.’s (2024)***](https://www.science.org/doi/10.1126/sciadv.adm9797) finding that ***singing uses higher pitch, slower tempo, and greater pitch stability than speech***. Using a substantially larger sample across 26 languages and sites, we will also conduct meta-analyses to evaluate the robustness and cross-cultural generality of these acoustic patterns. 
 
-- (c)**Synchronization and Entrainment in dyadic singing and speaking**: This project moves beyond the traditional focus on individual recordings of singing and speech by examining these behaviours in dyadic contexts. Specifically, I investigate whether structural differences between song and speech relate to differences in synchronization during group singing, and whether the distinct social pressures associated with singing and speaking influence patterns of turn-taking entrainment. This project aims to further illuminate form–function relationships in speech and song from an interactional perspective.
+- (c) **Synchronization and Entrainment in dyadic singing and speaking**: This project moves beyond the traditional focus on individual recordings of singing and speech by examining these behaviours in dyadic contexts. Specifically, I investigate whether structural differences between song and speech relate to differences in synchronization during group singing, and whether the distinct social pressures associated with singing and speaking influence patterns of turn-taking entrainment. This project aims to further illuminate form–function relationships in speech and song from an interactional perspective.
 
 
 # 📝 Publications 
