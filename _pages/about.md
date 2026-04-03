@@ -33,10 +33,10 @@ My PhD research incorporates three main projects:
 # 📝 Publications 
 Selected first author & co-first author papers. See full publication list in <a href="https://scholar.google.com/citations?user=HGu1roMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Many Voices 3-Mandarin</div><img src='images/combined_plot_acoustic features_Mandarin2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Community Journal</div><img src='images/combined_plot_acoustic features_Mandarin2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Higher Pitch, Slower Tempo, and Greater Stability in Singing than in Conversation among Mandarin speakers in Auckland: A Registered Report Replicating Ozaki et al.(2024)](https://osf.io/preprints/psyarxiv/gwavn_v1)
+[Higher Pitch, Slower Tempo, and Greater Stability in Singing than in Conversation among Mandarin speakers in Auckland: A Registered Report Replicating Ozaki et al.(2024)](https://peercommunityjournal.org/articles/10.24072/pcjournal.698/)
 
 **Zixuan Jia**<sup>*</sup>, Suzanne Purdy, Patrick E. Savage<sup>*</sup>
 
@@ -61,6 +61,7 @@ Selected first author & co-first author papers. See full publication list in <a 
 
 # 💻 Experiences
 **--Teaching**
+   - *2026.03 - 2026.06*, Graduate Teaching Assistant (teaching), Psych 313 Psychology of Communication
    - *2025.07 - 2025.11*, Graduate Teaching Assistant (supervison, marker), Capstone
 
 **--Mentorship**
