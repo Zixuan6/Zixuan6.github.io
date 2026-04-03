@@ -44,7 +44,7 @@ Selected first author & co-first author papers. See full publication list in <a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" style="vertical-align: middle; margin-right: 6px;">
   Many Voices 3 analysis protocol
 </a>
-# [**Protocol**](https://github.com/comp-music-lab/manyvoices3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - We successfuly replicated Ozaki et al.'s findings that **"singing shows higher pitch, slower tempo, and greater stability than conversation"** among Mandarin speakers in Auckland, and generalized it to more participants without musical and academic backgrounds. 
 - We also explored the potential musicianship effect on acoustic differences between speech and song. 
 </div>
